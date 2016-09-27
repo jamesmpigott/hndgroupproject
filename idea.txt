@@ -1,0 +1,7 @@
+Independent application that runs on Android based smartphones (based on 4.1+). The application connects to a database with important information such as timetables, tutor notifications, grade, attendance
+
+Ethical concern:
+Password protection in event of theft
+
+Information we need:
+API information, limitation
