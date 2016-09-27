@@ -1,2 +1,3 @@
 Significantly Late (9:30+) for each 2 weeks, without valid reason: 1% overall grade penalty
-No attendance without notificiation: 4% overall grade penalty
+No attendance without notificiation or valid reason: 2% overall grade penalty
+Non-completion of work without valid reason or inform within 72 hours: 2%
