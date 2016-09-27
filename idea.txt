@@ -1,7 +1,10 @@
 Independent application that runs on Android based smartphones (based on 4.1+). The application connects to a database with important information such as timetables, tutor notifications, grade, attendance
 
-Ethical concern:
-Password protection in event of theft
+Project Name: TBD
 
-Information we need:
-API information, limitation
+Key features: Database connection, authentication, main page with statistics + next lesson, menu with separate area for attendance record and timetable.
+
+Ideal features: Push notification, tutor notification, assignment information, assignment criteria
+
+Extra features: Barcode authentication (StudentID) 
+
