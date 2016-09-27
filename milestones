@@ -1,0 +1,15 @@
+What we need to get working: 
+-Database + Hosting
+-Base application 
+-API's (Calendar API)
+-Authentication
+-Basic UI
+-Display database information
+
+Extra features to implement (if we have time): 
+-Design
+-Push notifications (lessons 5 min warning, tutor notifications)
+
+Luxuries: 
+-Barcode scanner (use phones camera to scan barcode on student ID) 
+
